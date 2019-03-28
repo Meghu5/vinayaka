@@ -1,0 +1,30 @@
+Subject  A    red
+
+Test name  B    red
+    
+Description C
+
+Designer D
+
+Step name (Design Steps) E
+
+Description (Design Steps) F red
+
+Expected (Design Steps)  G    red
+
+status   L 
+
+Application name  I
+
+RTS (Design Steps)  J
+
+Type   K  red
+
+Target Test Phases M
+
+Test Sub-Type  N
+
+Step type (Design Steps) O   red
+
+Execution Status  H
+
